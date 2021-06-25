@@ -1,3 +1,2 @@
-# Cosmos DB Python sample
+# Cosmos DB Python sample using Cryptowatch Websocket API 
 
-Customize the [config.py](./config.py) file with your account host and key.
